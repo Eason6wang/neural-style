@@ -12,5 +12,8 @@ bash style_transfer.sh
 
 ## Mask RCNN
 Fork from https://github.com/matterport/Mask_RCNN.git
-- Run mask_demo.ipynb
+- Run mask_demo.ipynb in jupyter notebook
+```
+jupyter notebook --ip 0.0.0.0 --port 8080 --no-browser --allow-root
+```
 - Check it out https://nbviewer.jupyter.org/github/Eason6wang/style-the-mask/blob/master/mask_demo.ipynb
